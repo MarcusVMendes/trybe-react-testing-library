@@ -1,6 +1,7 @@
 {
   "name": "sd-06-project-react-testing-library",
   "version": "0.1.0",
+  "homepage": ".",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
